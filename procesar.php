@@ -5,5 +5,5 @@
     $resultado = $num1 * $num2;
 
     //con comillas dobles lee las variables
-    echo "<h1 style="display: inline">El resultado de la multiplicación es: $resultado</h1>";
+    echo  $resultado;
 ?>
